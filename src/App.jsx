@@ -13,6 +13,7 @@ function App() {
               <li>try</li>
             </ul>
           <button>james</button>
+          <button>majo</button>
         </div>
     </div>
   );
