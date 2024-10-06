@@ -5,7 +5,7 @@ const Footer = () => {
     <>
       <div className="h-[198px] bg-primary-100 flex justify-between items-center">
         <div className="font-Poppins ml-[18vw]">
-          <h1 className="font-bold text-black text-[40px]">
+          <h1 className="font-bold text-black text-[40px] mb-0.5">
             Sign Up For Newsletter
           </h1>
           <h3 className="font-bold text-primary-500 text-base">
